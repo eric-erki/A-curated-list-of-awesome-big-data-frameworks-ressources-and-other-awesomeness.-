@@ -633,6 +633,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Lumify](http://lumify.io/) - open source big data analysis and visualization platform
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [Metricsgraphic.js](https://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
+* [NextJSON](https://nextjson.com/) - free online nested JSON parser, formatter and toolbox for exploring deeply nested JSON data.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 * [Plot.ly](https://plot.ly/) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
